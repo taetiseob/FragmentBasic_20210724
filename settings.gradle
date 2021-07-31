@@ -1,0 +1,2 @@
+rootProject.name = "FragmentBasic_20210724"
+include ':app'
